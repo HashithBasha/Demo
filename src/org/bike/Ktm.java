@@ -13,7 +13,8 @@ public class Ktm implements Bike,Tvs{
 	public void cost() {
 		System.out.println("cost=40000");// TODO Auto-generated method stub
 		System.out.println("hashithbasha");
-		
+		System.out.println("my name is karthiik");
+
 	}
 
 	@Override
